@@ -9,6 +9,9 @@ elangovan_norm_rel.csv
 gad_norm_rel.csv
 trrust_norm_rel.csv
 
+# Ignore config.py
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
