@@ -1,3 +1,14 @@
+# Ignore Folder
+Data/
+
+# Ignore Data Files
+air_norm_rel.csv
+biogrid_norm_rel.csv
+chemprot_norm_rel.csv
+elangovan_norm_rel.csv
+gad_norm_rel.csv
+trrust_norm_rel.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
