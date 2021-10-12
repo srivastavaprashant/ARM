@@ -14,7 +14,7 @@ This repository provides the code for ARM, a novel self-attention framework for 
                          and save them in /Data.
                            
 2. Register at Entrez Programming Utilities (E-utilities) and obtain Email and api-key. 
-3. Create a file named 'config.py' with following code: <br>
+3. Create a file named 'config.py' containing entrez email and api-key as: <br>
 ```python
 entrez_api_key = 'Your-Entrez-email'
 entrez_email = 'Your-Entrez-apikey'
